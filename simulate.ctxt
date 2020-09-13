@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=simulate
+comment1.params=rolls
+comment1.target=void\ simulateRolls(int)
+numComments=2
